@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<User>
+  <saeed>
+    <accounttype>fieldexpert</accounttype>
+    <email>saeedborji5@gmail.com</email>
+    <username>saeed</username>
+    <password>a</password>
+    <repetpassword >a</repetpassword>
+    <accountnumber>---</accountnumber>
+    <bankname>---</bankname>
+    <accountname>---</accountname>
+    <check>1</check>
+  </saeed>
+
+  <borji>
+    <accounttype>technicalsupport</accounttype>
+    <email>farhadi.marzi@gmail.com</email>
+    <username>borji</username>
+    <password>a</password>
+    <repetpassword >a</repetpassword>
+    <accountnumber>084546156468465</accountnumber>
+    <bankname>melli</bankname>
+    <accountname>saeed borji</accountname>
+    <check>1</check>
+  </borji>
+
+  <test1>
+    <accounttype>fieldexpert</accounttype>
+    <email>martin.oliver@outlook.com</email>
+    <username>test1</username>
+    <password>a</password>
+    <repetpassword >a</repetpassword>
+    <accountnumber>---</accountnumber>
+    <bankname>---</bankname>
+    <accountname>---</accountname>
+    <check>1</check>
+  </test1>
+
+  <test2>
+    <accounttype>technicalsupport</accounttype>
+    <email>farhadi.marzi@gmail.com</email>
+    <username>test2</username>
+    <password>a</password>
+    <repetpassword >a</repetpassword>
+    <accountnumber>08758858552</accountnumber>
+    <bankname>tejarar</bankname>
+    <accountname>gholi</accountname>
+    <check>1</check>
+  </test2>
+</User>
